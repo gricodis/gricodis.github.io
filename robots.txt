@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gricodis.github.io/gricodis.txt.gz
+Sitemap: https://gricodis.github.io/app/gricodis.txt.gz
+Sitemap: https://gricodis.github.io/assets/gricodis.txt.gz
+Sitemap: https://gricodis.github.io/css/gricodis.txt.gz
+Sitemap: https://gricodis.github.io/includes/gricodis.txt.gz
+Sitemap: https://gricodis.github.io/item/gricodis.txt.gz
+Sitemap: https://gricodis.github.io/src/gricodis.txt.gz
